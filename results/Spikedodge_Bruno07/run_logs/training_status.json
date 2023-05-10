@@ -1,0 +1,38 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499945,
+                "file_path": "results\\Spikedodge_Bruno07\\MoveToGoal\\MoveToGoal-499945.onnx",
+                "reward": 0.0,
+                "creation_time": 1683744806.7701063,
+                "auxillary_file_paths": [
+                    "results\\Spikedodge_Bruno07\\MoveToGoal\\MoveToGoal-499945.pt"
+                ]
+            },
+            {
+                "steps": 500585,
+                "file_path": "results\\Spikedodge_Bruno07\\MoveToGoal\\MoveToGoal-500585.onnx",
+                "reward": 0.0,
+                "creation_time": 1683744806.9862213,
+                "auxillary_file_paths": [
+                    "results\\Spikedodge_Bruno07\\MoveToGoal\\MoveToGoal-500585.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500585,
+            "file_path": "results\\Spikedodge_Bruno07\\MoveToGoal.onnx",
+            "reward": 0.0,
+            "creation_time": 1683744806.9862213,
+            "auxillary_file_paths": [
+                "results\\Spikedodge_Bruno07\\MoveToGoal\\MoveToGoal-500585.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

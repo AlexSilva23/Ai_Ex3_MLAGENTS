@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1683670613",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 16:30:00) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\alexa\\Desktop\\Universidade\\2ano\\2semestre\\AI\\AI_EX3_ML\\AI_EX3_ML\\python-envs\\sample-env\\Scripts\\mlagents-learn --run-id=SpikeDodge_Bruno_02",
+        "mlagents_version": "0.26.0",
+        "mlagents_envs_version": "0.26.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.6",
+        "end_time_seconds": "1683670640"
+    },
+    "total": 26.7415469,
+    "count": 1,
+    "self": 0.01431660000000079,
+    "children": {
+        "run_training.setup": {
+            "total": 0.3948130000000001,
+            "count": 1,
+            "self": 0.3948130000000001
+        },
+        "TrainerController.start_learning": {
+            "total": 26.3324173,
+            "count": 1,
+            "self": 0.0009905999999979542,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 26.331404,
+                    "count": 1,
+                    "self": 26.331404
+                },
+                "trainer_threads": {
+                    "total": 3.5999999994373866e-06,
+                    "count": 1,
+                    "self": 3.5999999994373866e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.9100000002936213e-05,
+                    "count": 1,
+                    "self": 1.9100000002936213e-05
+                }
+            }
+        }
+    }
+}

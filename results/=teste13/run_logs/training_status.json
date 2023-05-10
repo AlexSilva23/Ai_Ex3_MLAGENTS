@@ -1,0 +1,65 @@
+{
+    "Dodge": {
+        "checkpoints": [
+            {
+                "steps": 499976,
+                "file_path": "results\\=teste13\\Dodge\\Dodge-499976.onnx",
+                "reward": -0.034482758620689655,
+                "creation_time": 1682691655.0587502,
+                "auxillary_file_paths": [
+                    "results\\=teste13\\Dodge\\Dodge-499976.pt"
+                ]
+            },
+            {
+                "steps": 500104,
+                "file_path": "results\\=teste13\\Dodge\\Dodge-500104.onnx",
+                "reward": -0.034482758620689655,
+                "creation_time": 1682691655.508945,
+                "auxillary_file_paths": [
+                    "results\\=teste13\\Dodge\\Dodge-500104.pt"
+                ]
+            },
+            {
+                "steps": 500104,
+                "file_path": "results\\=teste13\\Dodge\\Dodge-500104.onnx",
+                "reward": null,
+                "creation_time": 1683294460.8612747,
+                "auxillary_file_paths": [
+                    "results\\=teste13\\Dodge\\Dodge-500104.pt"
+                ]
+            },
+            {
+                "steps": 500104,
+                "file_path": "results\\=teste13\\Dodge\\Dodge-500104.onnx",
+                "reward": null,
+                "creation_time": 1683294491.9445486,
+                "auxillary_file_paths": [
+                    "results\\=teste13\\Dodge\\Dodge-500104.pt"
+                ]
+            },
+            {
+                "steps": 500104,
+                "file_path": "results\\=teste13\\Dodge\\Dodge-500104.onnx",
+                "reward": null,
+                "creation_time": 1683294646.9414067,
+                "auxillary_file_paths": [
+                    "results\\=teste13\\Dodge\\Dodge-500104.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500104,
+            "file_path": "results\\=teste13\\Dodge.onnx",
+            "reward": null,
+            "creation_time": 1683294646.9414067,
+            "auxillary_file_paths": [
+                "results\\=teste13\\Dodge\\Dodge-500104.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
